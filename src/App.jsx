@@ -14,11 +14,11 @@ function App() {
 
   return (
     <div className='container'>
-      <Sidebar sidebar= 'Dashboard'/>
-      <Reviews reviews = '1,281'/>
-      <AverageRating  averageRating = '4.6'/>
-      <SentimentAnalysis sentimentAnalysis = '960 , 122 , 321'/>
-      <WebsiteVisitors  websiteVisitors = '821'/>
+      <Sidebar sidebar/>
+      <Reviews reviews />
+      <AverageRating  />
+      <SentimentAnalysis />
+      <WebsiteVisitors />
     </div>
      
   )

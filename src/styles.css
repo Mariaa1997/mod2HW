@@ -24,9 +24,11 @@
 }
 .AverageRating{
     background-color: pink;
+    text-align: left;
 }
 .Reviews{
     background-color: orange;
+    text-align: left;
 }
 .SentimentAnalysis{
     background-color: red;
@@ -35,6 +37,7 @@
     background-color: salmon;
     grid-column-start: 2;
     grid-column-end: 5;
+    text-align: left;
 }
 body{
     background-color: grey;
